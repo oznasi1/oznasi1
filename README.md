@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Oz Nasi readne github](https://user-images.githubusercontent.com/24458541/94139040-adde2d80-fe71-11ea-9c69-8e417328d6a5.png)
 <!--
 **oznasi1/oznasi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
